@@ -2,6 +2,8 @@
 
 This tool compares different SLIC image segmentation methods using the Streamlit library. The user can adjust the parameters for the SLIC algorithm and see the resulting segmentation in real-time. The program also adds each superpixel segment into an array for further analysis or processing.
 
+![Screenshot](https://github.com/0xtommyofficial/SLIC-Segmentation-Comparison-Tool/blob/main/SLIC-Screen.jpg)
+
 ## Installation
 
 To use this tool, you'll need to install Python and the following libraries:

@@ -38,4 +38,4 @@ This program is released under the MIT License. See the LICENSE file for more in
 
 ## Author
 
-This tool was created by 0xtommyOfficial (molmez.io).
+This tool was created by @10XTMY, molmez.io.
